@@ -1,0 +1,7 @@
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\Beautiful_Matrix\bin\Debug\Beautiful_Matrix.exe.config
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\Beautiful_Matrix\bin\Debug\Beautiful_Matrix.exe
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\Beautiful_Matrix\bin\Debug\Beautiful_Matrix.pdb
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\Beautiful_Matrix\obj\Debug\Beautiful_Matrix.csproj.AssemblyReference.cache
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\Beautiful_Matrix\obj\Debug\Beautiful_Matrix.csproj.CoreCompileInputs.cache
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\Beautiful_Matrix\obj\Debug\Beautiful_Matrix.exe
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\Beautiful_Matrix\obj\Debug\Beautiful_Matrix.pdb

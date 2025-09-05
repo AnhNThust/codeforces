@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Beautiful_Matrix
 {
@@ -10,6 +6,24 @@ namespace Beautiful_Matrix
     {
         static void Main(string[] args)
         {
+            int r = 0, h = 0;
+            string[] str = new string[5];
+            for (int i = 0; i < 5; i++)
+            {
+                // nhap chuoi chua cac so nguyen
+                str[i] = Console.ReadLine();
+
+                // tach cac so tu chuoi roi gan vao mang
+                string[] temp = str[i].Split(' ');
+                for (int j = 0; j < temp.Length; j++)
+                {
+                    if (temp[j] != "1") continue;
+
+                    r = i + 1;
+                    h = j + 1;
+                }
+            }
+            Console.WriteLine(Math.Abs(r - 3) + Math.Abs(h - 3));
         }
     }
 }
