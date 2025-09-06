@@ -1,0 +1,7 @@
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\Petya_And_Strings\bin\Debug\Petya_And_Strings.exe.config
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\Petya_And_Strings\bin\Debug\Petya_And_Strings.exe
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\Petya_And_Strings\bin\Debug\Petya_And_Strings.pdb
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\Petya_And_Strings\obj\Debug\Petya_And_Strings.csproj.AssemblyReference.cache
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\Petya_And_Strings\obj\Debug\Petya_And_Strings.csproj.CoreCompileInputs.cache
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\Petya_And_Strings\obj\Debug\Petya_And_Strings.exe
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\Petya_And_Strings\obj\Debug\Petya_And_Strings.pdb
