@@ -1,0 +1,7 @@
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\Bear_And_Big_Brother\bin\Debug\Bear_And_Big_Brother.exe.config
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\Bear_And_Big_Brother\bin\Debug\Bear_And_Big_Brother.exe
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\Bear_And_Big_Brother\bin\Debug\Bear_And_Big_Brother.pdb
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\Bear_And_Big_Brother\obj\Debug\Bear_And_Big_Brother.csproj.AssemblyReference.cache
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\Bear_And_Big_Brother\obj\Debug\Bear_And_Big_Brother.csproj.CoreCompileInputs.cache
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\Bear_And_Big_Brother\obj\Debug\Bear_And_Big_Brother.exe
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\Bear_And_Big_Brother\obj\Debug\Bear_And_Big_Brother.pdb
