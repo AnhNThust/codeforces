@@ -1,0 +1,7 @@
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\Boy_Or_Girl\bin\Debug\Boy_Or_Girl.exe.config
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\Boy_Or_Girl\bin\Debug\Boy_Or_Girl.exe
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\Boy_Or_Girl\bin\Debug\Boy_Or_Girl.pdb
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\Boy_Or_Girl\obj\Debug\Boy_Or_Girl.csproj.AssemblyReference.cache
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\Boy_Or_Girl\obj\Debug\Boy_Or_Girl.csproj.CoreCompileInputs.cache
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\Boy_Or_Girl\obj\Debug\Boy_Or_Girl.exe
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\Boy_Or_Girl\obj\Debug\Boy_Or_Girl.pdb
