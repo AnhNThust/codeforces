@@ -1,0 +1,6 @@
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\Stones_On_The_Table\bin\Debug\Stones_On_The_Table.exe.config
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\Stones_On_The_Table\bin\Debug\Stones_On_The_Table.exe
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\Stones_On_The_Table\bin\Debug\Stones_On_The_Table.pdb
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\Stones_On_The_Table\obj\Debug\Stones_On_The_Table.csproj.CoreCompileInputs.cache
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\Stones_On_The_Table\obj\Debug\Stones_On_The_Table.exe
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\Stones_On_The_Table\obj\Debug\Stones_On_The_Table.pdb
