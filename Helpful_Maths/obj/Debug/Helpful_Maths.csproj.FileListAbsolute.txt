@@ -1,0 +1,7 @@
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\Helpful_Maths\bin\Debug\Helpful_Maths.exe.config
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\Helpful_Maths\bin\Debug\Helpful_Maths.exe
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\Helpful_Maths\bin\Debug\Helpful_Maths.pdb
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\Helpful_Maths\obj\Debug\Helpful_Maths.csproj.AssemblyReference.cache
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\Helpful_Maths\obj\Debug\Helpful_Maths.csproj.CoreCompileInputs.cache
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\Helpful_Maths\obj\Debug\Helpful_Maths.exe
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\Helpful_Maths\obj\Debug\Helpful_Maths.pdb
