@@ -1,0 +1,7 @@
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\WordCapitalization\bin\Debug\WordCapitalization.exe.config
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\WordCapitalization\bin\Debug\WordCapitalization.exe
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\WordCapitalization\bin\Debug\WordCapitalization.pdb
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\WordCapitalization\obj\Debug\WordCapitalization.csproj.AssemblyReference.cache
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\WordCapitalization\obj\Debug\WordCapitalization.csproj.CoreCompileInputs.cache
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\WordCapitalization\obj\Debug\WordCapitalization.exe
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\WordCapitalization\obj\Debug\WordCapitalization.pdb
