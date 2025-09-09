@@ -1,0 +1,7 @@
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\Soldier_And_Bananas\bin\Debug\Soldier_And_Bananas.exe.config
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\Soldier_And_Bananas\bin\Debug\Soldier_And_Bananas.exe
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\Soldier_And_Bananas\bin\Debug\Soldier_And_Bananas.pdb
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\Soldier_And_Bananas\obj\Debug\Soldier_And_Bananas.csproj.AssemblyReference.cache
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\Soldier_And_Bananas\obj\Debug\Soldier_And_Bananas.csproj.CoreCompileInputs.cache
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\Soldier_And_Bananas\obj\Debug\Soldier_And_Bananas.exe
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\Soldier_And_Bananas\obj\Debug\Soldier_And_Bananas.pdb
