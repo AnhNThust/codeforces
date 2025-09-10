@@ -1,0 +1,7 @@
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\Wrong_Subtraction\bin\Debug\Wrong_Subtraction.exe.config
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\Wrong_Subtraction\bin\Debug\Wrong_Subtraction.exe
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\Wrong_Subtraction\bin\Debug\Wrong_Subtraction.pdb
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\Wrong_Subtraction\obj\Debug\Wrong_Subtraction.csproj.AssemblyReference.cache
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\Wrong_Subtraction\obj\Debug\Wrong_Subtraction.csproj.CoreCompileInputs.cache
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\Wrong_Subtraction\obj\Debug\Wrong_Subtraction.exe
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\Wrong_Subtraction\obj\Debug\Wrong_Subtraction.pdb
