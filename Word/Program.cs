@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
 
 namespace Word
 {
@@ -9,13 +8,11 @@ namespace Word
         {
             string s = Console.ReadLine();
             int len = s.Length;
-            int count = 0;
-            //List<int> indexes = new List<int>(); // Luu cac tu la chu cai thuong
+            int count = 0; // dem so chu cai thuong
             for (int i = 0; i < len; ++i)
             {
                 if (char.IsUpper(s[i])) continue;
                 count++;
-                //indexes.Add(i);
             }
 
             if (count >= (float)len / 2)
