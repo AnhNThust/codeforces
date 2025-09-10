@@ -1,0 +1,6 @@
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\Nearly_Lucky_Number\bin\Debug\Nearly_Lucky_Number.exe.config
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\Nearly_Lucky_Number\bin\Debug\Nearly_Lucky_Number.exe
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\Nearly_Lucky_Number\bin\Debug\Nearly_Lucky_Number.pdb
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\Nearly_Lucky_Number\obj\Debug\Nearly_Lucky_Number.csproj.CoreCompileInputs.cache
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\Nearly_Lucky_Number\obj\Debug\Nearly_Lucky_Number.exe
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\Nearly_Lucky_Number\obj\Debug\Nearly_Lucky_Number.pdb
