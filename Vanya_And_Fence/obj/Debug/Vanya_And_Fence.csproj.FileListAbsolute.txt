@@ -1,0 +1,7 @@
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\Vanya_And_Fence\bin\Debug\Vanya_And_Fence.exe.config
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\Vanya_And_Fence\bin\Debug\Vanya_And_Fence.exe
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\Vanya_And_Fence\bin\Debug\Vanya_And_Fence.pdb
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\Vanya_And_Fence\obj\Debug\Vanya_And_Fence.csproj.AssemblyReference.cache
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\Vanya_And_Fence\obj\Debug\Vanya_And_Fence.csproj.CoreCompileInputs.cache
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\Vanya_And_Fence\obj\Debug\Vanya_And_Fence.exe
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\Vanya_And_Fence\obj\Debug\Vanya_And_Fence.pdb
