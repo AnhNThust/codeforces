@@ -1,0 +1,7 @@
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\Anton_And_Danik\bin\Debug\Anton_And_Danik.exe.config
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\Anton_And_Danik\bin\Debug\Anton_And_Danik.exe
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\Anton_And_Danik\bin\Debug\Anton_And_Danik.pdb
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\Anton_And_Danik\obj\Debug\Anton_And_Danik.csproj.AssemblyReference.cache
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\Anton_And_Danik\obj\Debug\Anton_And_Danik.csproj.CoreCompileInputs.cache
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\Anton_And_Danik\obj\Debug\Anton_And_Danik.exe
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\Anton_And_Danik\obj\Debug\Anton_And_Danik.pdb
