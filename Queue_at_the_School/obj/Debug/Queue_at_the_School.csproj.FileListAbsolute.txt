@@ -1,0 +1,7 @@
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\Queue_at_the_School\bin\Debug\Queue_at_the_School.exe.config
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\Queue_at_the_School\bin\Debug\Queue_at_the_School.exe
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\Queue_at_the_School\bin\Debug\Queue_at_the_School.pdb
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\Queue_at_the_School\obj\Debug\Queue_at_the_School.csproj.AssemblyReference.cache
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\Queue_at_the_School\obj\Debug\Queue_at_the_School.csproj.CoreCompileInputs.cache
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\Queue_at_the_School\obj\Debug\Queue_at_the_School.exe
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\Queue_at_the_School\obj\Debug\Queue_at_the_School.pdb
