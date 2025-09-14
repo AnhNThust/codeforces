@@ -1,0 +1,7 @@
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\George_and_Accommodation\bin\Debug\George_and_Accommodation.exe.config
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\George_and_Accommodation\bin\Debug\George_and_Accommodation.exe
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\George_and_Accommodation\bin\Debug\George_and_Accommodation.pdb
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\George_and_Accommodation\obj\Debug\George_and_Accommodation.csproj.AssemblyReference.cache
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\George_and_Accommodation\obj\Debug\George_and_Accommodation.csproj.CoreCompileInputs.cache
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\George_and_Accommodation\obj\Debug\George_and_Accommodation.exe
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\George_and_Accommodation\obj\Debug\George_and_Accommodation.pdb
