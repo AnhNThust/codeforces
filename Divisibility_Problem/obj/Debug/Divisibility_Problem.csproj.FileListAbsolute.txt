@@ -1,0 +1,7 @@
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\Divisibility_Problem\bin\Debug\Divisibility_Problem.exe.config
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\Divisibility_Problem\bin\Debug\Divisibility_Problem.exe
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\Divisibility_Problem\bin\Debug\Divisibility_Problem.pdb
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\Divisibility_Problem\obj\Debug\Divisibility_Problem.csproj.AssemblyReference.cache
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\Divisibility_Problem\obj\Debug\Divisibility_Problem.csproj.CoreCompileInputs.cache
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\Divisibility_Problem\obj\Debug\Divisibility_Problem.exe
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\Divisibility_Problem\obj\Debug\Divisibility_Problem.pdb
