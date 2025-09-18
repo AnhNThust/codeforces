@@ -8,11 +8,15 @@ namespace Hulk
         {
             int n = Int32.Parse(Console.ReadLine());
 
-            for (int i = 0; i < n; i++)
+            for (int i = 1; i <= n; i++)
             {
-                //if ()
+                if (i > 1) Console.Write("that ");
+
+                if (i % 2 != 0) Console.Write("I hate ");
+                else Console.Write("I love ");
             }
             Console.Write("it");
+            Console.ReadLine();
         }
     }
 }
