@@ -1,0 +1,7 @@
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\Ultra_Fast_Mathematician\obj\Debug\Ultra_Fast_Mathematician.csproj.AssemblyReference.cache
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\Ultra_Fast_Mathematician\obj\Debug\Ultra_Fast_Mathematician.csproj.CoreCompileInputs.cache
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\Ultra_Fast_Mathematician\bin\Debug\Ultra_Fast_Mathematician.exe.config
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\Ultra_Fast_Mathematician\bin\Debug\Ultra_Fast_Mathematician.exe
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\Ultra_Fast_Mathematician\bin\Debug\Ultra_Fast_Mathematician.pdb
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\Ultra_Fast_Mathematician\obj\Debug\Ultra_Fast_Mathematician.exe
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\Ultra_Fast_Mathematician\obj\Debug\Ultra_Fast_Mathematician.pdb
