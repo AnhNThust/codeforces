@@ -1,0 +1,7 @@
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\I_Wanna_Be_The_Guy\bin\Debug\I_Wanna_Be_The_Guy.exe.config
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\I_Wanna_Be_The_Guy\bin\Debug\I_Wanna_Be_The_Guy.exe
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\I_Wanna_Be_The_Guy\bin\Debug\I_Wanna_Be_The_Guy.pdb
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\I_Wanna_Be_The_Guy\obj\Debug\I_Wanna_Be_The_Guy.csproj.AssemblyReference.cache
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\I_Wanna_Be_The_Guy\obj\Debug\I_Wanna_Be_The_Guy.csproj.CoreCompileInputs.cache
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\I_Wanna_Be_The_Guy\obj\Debug\I_Wanna_Be_The_Guy.exe
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\I_Wanna_Be_The_Guy\obj\Debug\I_Wanna_Be_The_Guy.pdb

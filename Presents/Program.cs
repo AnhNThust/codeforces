@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace Presents
 {
@@ -8,20 +9,27 @@ namespace Presents
         {
             int n = Int32.Parse(Console.ReadLine());
             string[] p = Console.ReadLine().Split(' ');
-            string[] q = new string[n];
-            for (int i = 0; i < n; i++)
+            string[] q = Console.ReadLine().Split(' ');
+            List<string> list = new List<string>();
+            for (int i = 1; i <= n; i++)
+                list.Add($"{i}");
+
+            for (int i = 1; i < p.Length; i++)
             {
-                for (int j = 0; j < p.Length; j++)
-                {
-                    if ((i + 1) != Int32.Parse(p[j])) continue;
-                    q[i] = $"{j + 1}";
-                    break;
-                }
+                if (!list.Contains(p[i])) continue;
+                else if (list.Count <= 0) break;
+                list.Remove(p[i]);
             }
 
-            for (int i = 0; i < n; i++)
-                Console.Write($"{q[i]} ");
-            Console.ReadLine();
+            for (int i = 1; i < q.Length; i++)
+            {
+                if (!list.Contains(q[i])) continue;
+                else if (list.Count <= 0) break;
+                list.Remove(q[i]);
+            }
+
+            if (list.Count > 0) Console.WriteLine("Oh, my keyboard!");
+            else Console.WriteLine("I become the guy.");
         }
     }
 }
