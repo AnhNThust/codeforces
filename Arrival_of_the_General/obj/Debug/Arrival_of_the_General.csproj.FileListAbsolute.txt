@@ -1,0 +1,7 @@
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\Arrival_of_the_General\bin\Debug\Arrival_of_the_General.exe.config
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\Arrival_of_the_General\bin\Debug\Arrival_of_the_General.exe
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\Arrival_of_the_General\bin\Debug\Arrival_of_the_General.pdb
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\Arrival_of_the_General\obj\Debug\Arrival_of_the_General.csproj.AssemblyReference.cache
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\Arrival_of_the_General\obj\Debug\Arrival_of_the_General.csproj.CoreCompileInputs.cache
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\Arrival_of_the_General\obj\Debug\Arrival_of_the_General.exe
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\Arrival_of_the_General\obj\Debug\Arrival_of_the_General.pdb
