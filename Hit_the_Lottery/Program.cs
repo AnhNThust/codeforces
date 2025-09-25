@@ -12,18 +12,23 @@ namespace Hit_the_Lottery
         {
             int n = Int32.Parse(Console.ReadLine());
             int[] m = { 100, 20, 10, 5, 1 };
-            int i = 0;
+            //int i = 0;
             int count = 0;
-            while (n > 0)
-            {
-                if (n < m[i])
-                {
-                    i++;
-                    continue;
-                }
+            //while (n > 0)
+            //{
+            //    if (n < m[i])
+            //    {
+            //        i++;
+            //        continue;
+            //    }
 
-                count += (n / m[i]);
-                n %= m[i];
+            //    count += (n / m[i]);
+            //    n %= m[i];
+            //}
+            foreach (int i in m)
+            {
+                count += (n / i);
+                n %= i;
             }
 
             Console.WriteLine(count);
