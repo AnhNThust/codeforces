@@ -1,0 +1,7 @@
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\Hit_the_Lottery\bin\Debug\Hit_the_Lottery.exe.config
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\Hit_the_Lottery\bin\Debug\Hit_the_Lottery.exe
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\Hit_the_Lottery\bin\Debug\Hit_the_Lottery.pdb
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\Hit_the_Lottery\obj\Debug\Hit_the_Lottery.csproj.AssemblyReference.cache
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\Hit_the_Lottery\obj\Debug\Hit_the_Lottery.csproj.CoreCompileInputs.cache
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\Hit_the_Lottery\obj\Debug\Hit_the_Lottery.exe
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\Hit_the_Lottery\obj\Debug\Hit_the_Lottery.pdb
