@@ -1,0 +1,7 @@
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\Insomnia_cure\bin\Debug\Insomnia_cure.exe.config
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\Insomnia_cure\bin\Debug\Insomnia_cure.exe
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\Insomnia_cure\bin\Debug\Insomnia_cure.pdb
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\Insomnia_cure\obj\Debug\Insomnia_cure.csproj.AssemblyReference.cache
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\Insomnia_cure\obj\Debug\Insomnia_cure.csproj.CoreCompileInputs.cache
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\Insomnia_cure\obj\Debug\Insomnia_cure.exe
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\Insomnia_cure\obj\Debug\Insomnia_cure.pdb
