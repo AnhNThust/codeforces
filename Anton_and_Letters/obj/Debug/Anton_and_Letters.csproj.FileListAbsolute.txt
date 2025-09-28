@@ -1,0 +1,7 @@
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\Anton_and_Letters\bin\Debug\Anton_and_Letters.exe.config
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\Anton_and_Letters\bin\Debug\Anton_and_Letters.exe
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\Anton_and_Letters\bin\Debug\Anton_and_Letters.pdb
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\Anton_and_Letters\obj\Debug\Anton_and_Letters.csproj.AssemblyReference.cache
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\Anton_and_Letters\obj\Debug\Anton_and_Letters.csproj.CoreCompileInputs.cache
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\Anton_and_Letters\obj\Debug\Anton_and_Letters.exe
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\Anton_and_Letters\obj\Debug\Anton_and_Letters.pdb
