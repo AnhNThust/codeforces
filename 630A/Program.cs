@@ -6,6 +6,8 @@ namespace _630A
     {
         static void Main(string[] args)
         {
+            long n = long.Parse(Console.ReadLine());
+            Console.WriteLine(25);
         }
     }
 }
