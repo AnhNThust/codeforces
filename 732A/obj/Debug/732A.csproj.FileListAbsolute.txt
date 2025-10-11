@@ -1,0 +1,7 @@
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\732A\bin\Debug\732A.exe.config
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\732A\bin\Debug\732A.exe
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\732A\bin\Debug\732A.pdb
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\732A\obj\Debug\732A.csproj.AssemblyReference.cache
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\732A\obj\Debug\732A.csproj.CoreCompileInputs.cache
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\732A\obj\Debug\732A.exe
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\732A\obj\Debug\732A.pdb
