@@ -1,0 +1,7 @@
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\1409A\bin\Debug\_1409A.exe.config
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\1409A\bin\Debug\_1409A.exe
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\1409A\bin\Debug\_1409A.pdb
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\1409A\obj\Debug\1409A.csproj.AssemblyReference.cache
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\1409A\obj\Debug\1409A.csproj.CoreCompileInputs.cache
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\1409A\obj\Debug\_1409A.exe
+F:\workspaces\basic_programming_workspace\cs_ws\codeforces\AnhNThust\codeforces\1409A\obj\Debug\_1409A.pdb
