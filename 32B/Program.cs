@@ -6,6 +6,8 @@ namespace _32B
     {
         static void Main(string[] args)
         {
+            string s = Console.ReadLine().Replace("--", "2").Replace("-.", "1").Replace(".", "0");
+            Console.WriteLine(s);
         }
     }
 }
