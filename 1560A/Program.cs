@@ -10,15 +10,15 @@ namespace _1560A
             for (int i = 0; i < t; i++)
             {
                 int index = 0;
-                int num = 0;
+                int value = 0;
                 int k = int.Parse(Console.ReadLine());
                 while (index < k)
                 {
-                    num++;
-                    if (num % 3 != 0 && num % 10 != 3)
+                    value++;
+                    if (value % 3 != 0 && value % 10 != 3)
                         index++;
                 }
-                Console.WriteLine(num);
+                Console.WriteLine(value);
             }
         }
     }
