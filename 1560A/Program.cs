@@ -9,14 +9,14 @@ namespace _1560A
             int t = int.Parse(Console.ReadLine());
             for (int i = 0; i < t; i++)
             {
-                int count = 0;
+                int index = 0;
                 int num = 0;
                 int k = int.Parse(Console.ReadLine());
-                while (count < k)
+                while (index < k)
                 {
                     num++;
                     if (num % 3 != 0 && num % 10 != 3)
-                        count++;
+                        index++;
                 }
                 Console.WriteLine(num);
             }
