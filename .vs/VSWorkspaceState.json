@@ -1,13 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\1512A",
-    "\\1760A",
-    "\\1791A",
-    "\\1899A",
-    "\\1915A",
-    "\\32B",
+    "\\1560A",
+    "\\1850A",
     "\\Wrong_Subtraction"
   ],
+  "SelectedNode": "\\1850A\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
